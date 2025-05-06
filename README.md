@@ -7,6 +7,5 @@
   
 ## Technology Stack
 * We have used Python programming language with the following libraries
-  
 **pygame** : used for handilng user inputs (keyboard & mouse clicks) and *Animation*
 **tkinter** : used for handling Windows GUI, i.e. for generating dialog boxes like input box, message box etc. 
